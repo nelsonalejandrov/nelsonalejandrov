@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Nelson Gil Vargas
+
+- 🔭 I am a geophysical engineer from UNAM in Mexico City. 
+- 🌱 I’m about to start my masters degree in DS in ITAM.
+- 👯 I’m looking to work in DS for a consulting firm or in the fintech sector.
+- 📫 How to reach me: nelsongilvargas@gmail.com
+- ⚡ Fun fact: I'm a lefty, older brother and love traveling. 
+
 <!--
 **nelsonalejandrov/nelsonalejandrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
