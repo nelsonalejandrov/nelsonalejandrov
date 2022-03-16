@@ -2,7 +2,7 @@
 
 My name is Nelson Gil Vargas
 
-- 🔭 I am a geophysical engineer from UNAM in Mexico City. 
+- 🔭 Data Scientist second ITAM, geophysical engineer first UNAM. 
 - 🌱 I’m about to start my masters degree in DS in ITAM.
 - 👯 I’m looking to work in DS for a consulting firm or in the fintech sector.
 - 📫 How to reach me: nelsongilvargas@gmail.com
