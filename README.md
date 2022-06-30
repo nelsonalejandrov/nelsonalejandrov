@@ -3,7 +3,7 @@
 My name is Nelson Gil Vargas
 
 - 🔭 Data Scientist second ITAM, geophysical engineer first UNAM. 
-- 🌱 I’m about to start my masters degree in DS in ITAM.
+- 🌱 I just finished my masters degree in DS in ITAM.
 - 👯 I’m looking to work in DS for a consulting firm or in the fintech sector.
 - 📫 How to reach me: nelsongilvargas@gmail.com
 - ⚡ Fun fact: I'm a lefty, older brother and love traveling. 
